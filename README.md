@@ -96,18 +96,6 @@ Paper ID: **JETIR2505760**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Madhumithats08&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumithats08&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📢 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/madhumitha-t-s-49a24a2b2/
