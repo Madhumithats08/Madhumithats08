@@ -15,7 +15,6 @@ My work includes:
 - 🤖 AI-powered products & intelligent assistants  
 - 🌐 Full Stack web development  
 - 📊 Machine Learning & Predictive Analytics  
-- ☁️ Cloud-ready backend systems  
 - ⚡ Automation tools for productivity & business workflows  
 - 📄 Research-driven innovation with published papers  
 
@@ -36,13 +35,10 @@ My work includes:
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-Python • JavaScript • SQL • HTML5 • CSS3
-
-### 🌐 Frontend
-React • Tailwind CSS • Bootstrap
+Python  • SQL • HTML5 • CSS3 • JavaScript
 
 ### ⚙️ Backend & APIs
-Node.js • FastAPI • Flask • REST APIs
+• FastAPI • Flask • REST APIs
 
 ### 🗄️ Database & Cloud
 MongoDB • MySQL • PostgreSQL • Supabase • Firebase
@@ -51,7 +47,7 @@ MongoDB • MySQL • PostgreSQL • Supabase • Firebase
 Scikit-learn • Pandas • OpenCV • NLP • TensorFlow • LangChain • Vector DB
 
 ### 🔧 Tools
-Git • GitHub • Postman • VS Code • Linux
+Git • GitHub • Postman • VS Code 
 
 ---
 
@@ -59,10 +55,11 @@ Git • GitHub • Postman • VS Code • Linux
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🤖 AI DevOps Risk Bot | Intelligent system to predict deployment risks, automate monitoring, and assist DevOps workflows. | Python • ML • APIs |
 | ✋ Gesture-Controlled Virtual AI Mouse | Hands-free computing system using hand gestures for cursor movement and clicks. | Python • OpenCV • MediaPipe |
-| 🧠 KT Based Employee Knowledge Chatbot | Internal enterprise chatbot using RAG for employee knowledge retrieval and instant support. | Python • FastAPI • Vector DB |
+| 🤖 AI DevOps Risk Bot | Intelligent system to predict deployment risks, automate monitoring, and assist DevOps workflows. | Python • ML • APIs |
 | 🎙️ VoxFlow | Real-time AI Voice Agent for interactive interviews with voice communication and smart responses. | AI Voice • NLP • Full Stack |
+| 🧠 KT Based Employee Knowledge Chatbot | Internal enterprise chatbot using RAG for employee knowledge retrieval and instant support. | Python • FastAPI • Vector DB |
+
 
 ---
 
