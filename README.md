@@ -83,16 +83,6 @@ Paper ID: **JETIR2505760**
 
 ---
 
-## 🎯 Engineering Values
-
-✔ Real-world problem solving  
-✔ Scalable system architecture  
-✔ AI-powered automation  
-✔ Clean & maintainable code  
-✔ Continuous learning mindset  
-
----
-
 ## 📢 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/madhumitha-t-s-49a24a2b2/
